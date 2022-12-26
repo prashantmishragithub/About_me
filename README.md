@@ -1,8 +1,8 @@
- "*"👋  Hi, I’m Prashant mishra.
-"*"🌱 I’m currently learning Full stack development.
-"*"👯 I’m looking to collaborate on Full stack projects.
-"*"👀 I’m interested in Coding, Learning, Reading.
-"*"📫 How to reach me: mishraprashant916@gmail.com.
+  👋  Hi, I’m Prashant mishra.
+<br>🌱I’m currently learning Full stack development in Java Language.
+<br>👯 I’have made *Brick Breaker Game* using Javafx & SceneBuilder.
+<br>👀 I’m currently working on my next project which is *Library Management System* using Jframe & MySQL Database.
+<br>📫 How to reach me: mishraprashant916@gmail.com.
  
 
 <!---
