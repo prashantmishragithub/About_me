@@ -1,7 +1,7 @@
   👋  Hi, I’m Prashant mishra.
 <br>🌱I’m currently learning Full stack development in Java Language.
 <br>👯 I’have made *Brick Breaker Game* using Javafx & SceneBuilder.
-<br>👀 Recently I have completed my new project which is *Library Management System* using Jframe & MySQL Database.
+<br>👀 Recently I have completed my new project which is *Library Management System* using JSwing & MySQL Database.
 <br>📫 How to reach me: mishraprashant916@gmail.com.
  
 
