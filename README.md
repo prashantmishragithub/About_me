@@ -2,8 +2,8 @@
 <br>🌱I’m currently learning Full stack development in Java Language.
 <br>👯 I’have made my First project which is *Brick Breaker Game* using Javafx & SceneBuilder.
 <br>👀 Recently I have completed My New Project which is *Library Management System* using JSwing & MySQL Database.
-<br> A cup of tea and I am ready to code.
-<br>📫 How to reach me: mishraprashant916@gmail.com.
+<br>  A cup of tea and I am ready to code.
+<br>📫 Reach me now : mishraprashant916@gmail.com.
  
 
 <!---
