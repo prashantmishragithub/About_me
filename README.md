@@ -1,7 +1,7 @@
-  👋  Hi, I’m Prashant mishra.
-<br>🌱I’m currently learning Full stack development in Java Language.
-<br>👯 I’have made my First project which is *Brick Breaker Game* using Javafx & Scene Builder.
-<br>👀 Completed My New Project which is *Library Management System* using Swing & MySQL.
+  👋  Hi, I’m Prashant Mishra.
+<br>🌱 Currently learning Full stack development at AccioJob
+<br>👯 Have made First Project which is Brick Breaker Game using JavaFx & Scene Builder.
+<br>👀 Completed Second Project which is Library Management System using Swing & MySQL.
 <br>📫 Working on my next Project
  
 
